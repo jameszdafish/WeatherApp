@@ -15,4 +15,5 @@ Using an API, this weather app allows you to input a city name to receive the da
       However, using a [city][state code][country code] would be very easy to implement, 
       but just takes unnecessary time when I can be learning more important things. 
       Though, this is very practical to have, so I will revisit this very SOON!
-    • I'LL MAKE IT PRETTY! 😭 DON'T WORRY! I DRAW AND PAINT, SO AS AN ARTIST, I FEEL THE PAIN OF JUST A BASIC WINDOW. 🥹 PLEASE BELIEVE IN ME.
+    • I'LL MAKE IT PRETTY! 😭 DON'T WORRY! I DRAW AND PAINT, SO AS AN ARTIST, I FEEL THE PAIN OF JUST A BASIC WINDOW. 
+      🥹 PLEASE BELIEVE IN ME.
